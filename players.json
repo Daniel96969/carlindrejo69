@@ -1,0 +1,27 @@
+{
+  "fabian": {
+    "nombre": "fabian",
+    "clase": "Mago",
+    "nivel": 1,
+    "xp": 20,
+    "hp_max": 20,
+    "hp": 20,
+    "ataque": 10,
+    "defensa": 2,
+    "inventario": {
+      "pocion": 2,
+      "antorcha": 1,
+      "espada_baja": 1
+    },
+    "decisiones": [
+      "Tomó sendero iluminado",
+      "Taberna",
+      "Huyó del goblin",
+      "Ayudó al aldeano",
+      "Tomó sendero iluminado",
+      "Taberna",
+      "Huyó del goblin",
+      "No ayudó al aldeano"
+    ]
+  }
+}
